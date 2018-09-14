@@ -39,7 +39,7 @@
  [],
  False,
  False,
- 1536872752,
+ 1536948689,
  [('run.exe',
    'e:\\tech\\python\\miniconda\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
    'EXECUTABLE')])
